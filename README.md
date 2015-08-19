@@ -6,3 +6,5 @@ Githubテスト
 ##メンバー
 
 *testmember
+
+*featureテスト
