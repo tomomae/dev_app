@@ -8,3 +8,5 @@ Githubテスト
 *testmember
 
 *featureテスト
+
+*featureテスト3
