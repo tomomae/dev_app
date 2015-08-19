@@ -9,12 +9,15 @@ Githubテスト
 
 *featureテスト
 
-<<<<<<< HEAD
+
 
 *featureテスト4
 
 *featureテスト3
 
-=======
+
 *featureテスト2
->>>>>>> feature/test2
+
+
+*featureテスト5
+
